@@ -1,2 +1,14 @@
 # 06-PyViz
-Homework 6 
+ 
+
+
+![Dashboard](/Images/sfmap.png)
+
+
+![Dashboard](/Images/market_analysis.png)
+
+
+![Dashboard](/Images/neighborhood_analysis.png)
+
+
+![Dashboard](/Images/parallel.png)
